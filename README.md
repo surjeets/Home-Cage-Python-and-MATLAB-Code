@@ -13,4 +13,4 @@ Python code folder has two sub directories **Animal_Motion** and **track animal*
 These codes can be used for motion detection and tracking animal activity in the home-cage.
 
 # MATLAB Code
-MATLAB code can be used to plot the actograms and score inactivity periods of the animal in home-cage.
+MATLAB code can be used to plot the actograms and score inactivity periods of the animal in home-cage. Futher, an experimenter can compare the video actogram with tethered LFP/EMG recordings.
