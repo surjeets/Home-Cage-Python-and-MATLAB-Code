@@ -21,7 +21,7 @@ frameGray = cv2.imread("mouse2.jpg")
 src = cv2.cvtColor(frameGray, cv2.COLOR_BGR2GRAY)
 
 # invert binary
-th, dst = cv2.threshold(src, thresh, maxValue, cv2.THRESH_BINARY_INV)
+th, dst = cv2.threshold(src, threshanimal, thresh_maxValue, cv2.THRESH_BINARY_INV)
 img2 , contours, hierarchy = cv2.findContours(dst,cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
 ca = max(contours, key =cv2.contourArea)
 
