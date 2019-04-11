@@ -2,5 +2,7 @@
 Python and MATLAB Code for offline Home-Cage rodent behaviour data analysis as explained in the following manuscript:
 
 Low-Cost Solution for Rodent Home-Cage Behaviour Monitoring
+
 Surjeet Singh, Edgar Bermudez Contreras, Mojtaba Nazari, Robert J. Sutherland, Majid H. Mohajerani
+
 bioRxiv 342501; doi: https://doi.org/10.1101/342501
